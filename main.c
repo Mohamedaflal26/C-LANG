@@ -684,6 +684,8 @@ int main()
         printf("not a palindrome");
     }
 */
+
+/*43.REVERSE
 #include<stdio.h>
 int main()
 {
@@ -696,7 +698,7 @@ int main()
         n=n/10;
     }
 }
-
+*/
 
 
 
